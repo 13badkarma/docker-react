@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        Tesla2 There
+        Feature branch There
         </p>
         <a
           className="App-link"
